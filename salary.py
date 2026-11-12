@@ -1,1 +1,0 @@
-print("Salary Details") 
